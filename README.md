@@ -176,6 +176,8 @@ de metolodogía ágil.
 
 Tú aún no lo sabes, pero vas a empezar a pensar en construir tu meta poco a poco a base de pequeños Tests.  
 
+Ahora ondea en las referencias.
+
 ```
 
 
