@@ -144,7 +144,7 @@ test('Sum 1 + 2 to equal 3', function () => {
 
 #### Definición de un Test con Patrón AAA
 
-```
+```js
 test('Sum 1 + 2 to equal 3', function () => {
 // Arrange
 var expected = 3;
