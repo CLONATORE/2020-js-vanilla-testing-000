@@ -81,8 +81,8 @@ Vamos a proveerte de soluciones ya estructuradas donde aprenderas a pensar.
 Para ello usaremos 'ingeniería inversa'.
 
 Al principio te daremos la solución hecha y simplemente tendrás que analizar y absorver el conocimiento.
-En una segunda iteración te daremos partes del mismo, y sabiendo que previamente obtuvistes un conocimiento 'end-to-end',
-deberás añadir la partes que falten.
+En una segunda iteración te daremos partes del mismo, y sabiendo que previamente obtuvistes un conocimiento
+'end-to-end', deberás añadir la partes que falten.
 
 De esta manera, iremos poco a poco afinando y puliendo la técnica del testing.
 
@@ -123,7 +123,8 @@ Dicho patrón define el cuerpo de un test en tres partes.
                                     que vamos a utilizar en el Test que lo contiene.
                                     
                                     
-* Act (Actuar)                   => realiza la llamada al método a probar con los parámetros preparados para tal fin.
+* Act (Actuar)                   => realiza la llamada al método a probar con los parámetros preparados 
+                                    para tal fin.
 
 
 * Assert (Confirmar/Comprobar)   => comprueba que el método de pruebas ejecutado se comporta tal y 
@@ -161,15 +162,17 @@ expect(result).toBe(expected);
 ```
 Después de haber leído esta pequeña introducción simplemente queremos que asientes conceptos...
 
-La capacidad de llegar a un resultado acotando diferentes soluciones es la diferencia entre la persona
-que desarrolla y testea a la persona que testea y desarrolla.
+La capacidad de llegar a un resultado acotando diferentes soluciones es la diferencia entre la 
+persona que desarrolla y testea a la persona que testea y desarrolla.
 
 Son dos conceptos totalmente diferente que ahora mismo no podrás apreciar.
 
-Hay gente que tarda años en saber/ver estas diferencias... En Geekshubs queremos dejarlas claras desde el minuto uno de la formación.
-Por ello decimos que queremos que simplemente absorvas conocimiento, luego puliremos los detalles.
+Hay gente que tarda años en saber/ver estas diferencias... En Geekshubs queremos dejarlas claras desde 
+el minuto uno de la formación. Por ello decimos que queremos que simplemente absorvas conocimiento, luego 
+puliremos los detalles.
 
-Para finalizar, te diremos que estás aprendiendo hábitos de desarrollo, capacidades de análisis y premisas de metolodogía ágil.
+Para finalizar, te diremos que estás aprendiendo hábitos de desarrollo, capacidades de análisis y premisas 
+de metolodogía ágil.
 
 Tú aún no lo sabes, pero vas a empezar a pensar en construir tu meta poco a poco a base de pequeños Tests.  
 
