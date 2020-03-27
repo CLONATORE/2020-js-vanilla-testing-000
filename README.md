@@ -1,4 +1,4 @@
-# 2020-js-vanilla-000
+# 2020-js-vanilla-testing-000
 
 <p align="center">
     <img src="https://github.com/GeeksHubsAcademy/hello-world/blob/master/assets/media/logo/logo.png" >	
