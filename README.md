@@ -3,10 +3,12 @@
 
 ## Temario
 * [Pirámide de Pruebas](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
-* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
-* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
-* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
-* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
+* [Qué se va a probar ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-se-va-a-probar)
+* [Qué es un Test Unitario ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-es-un-test-unitario)
+* [Como vamos a escribir los Test Unitarios ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#c%C3%B3mo-vamos-escribir-los-test-unitarios-)
+* [Qué es un convenio ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-es-un-convenio-)
+* [Qué patrones vamos a usar ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-patrones-vamos-a-usar-)
+* [Conclusiones](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#conclusiones)
 
 
 ### Pirámide de Pruebas
