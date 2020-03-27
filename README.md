@@ -2,7 +2,12 @@
 
 
 ## Temario
-* 
+* [Pirámide de Pruebas](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
+* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
+* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
+* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
+* [](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
+
 
 ### Pirámide de Pruebas
 
