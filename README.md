@@ -1,5 +1,8 @@
 # 2020-js-vanilla-000
 
+<p align="center">
+    <img src="https://github.com/GeeksHubsAcademy/hello-world/blob/master/assets/media/logo/logo.png" >	
+</p>
 
 ## Temario
 * [Pirámide de Pruebas](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
@@ -123,10 +126,10 @@ Dicho patrón define el cuerpo de un test en tres partes.
 * Act (Actuar)                   => realiza la llamada al método a probar con los parámetros preparados para tal fin.
 
 
-* Assert (Confirmar/Comprobar)  => comprueba que el método de pruebas ejecutado se comporta tal y 
-                                   como teníamos previsto que lo hiciera.
+* Assert (Confirmar/Comprobar)   => comprueba que el método de pruebas ejecutado se comporta tal y 
+                                    como teníamos previsto que lo hiciera.
                                    
-Este concepto puede ser bueno a la hora de implmentar pequeños métodos.
+Este concepto puede ser bueno a la hora de implementar pequeños métodos.
 ```
 
 #### Definición de un Test normal
@@ -168,7 +171,7 @@ Por ello decimos que queremos que simplemente absorvas conocimiento, luego pulir
 
 Para finalizar, te diremos que estás aprendiendo hábitos de desarrollo, capacidades de análisis y premisas de metolodogía ágil.
 
-Tu aun no lo sabes, pero vas a empezar a pensar en construir tu meta poco a poco a base de pequeños Tests.  
+Tú aún no lo sabes, pero vas a empezar a pensar en construir tu meta poco a poco a base de pequeños Tests.  
 
 ```
 
