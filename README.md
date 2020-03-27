@@ -1,6 +1,10 @@
 # 2020-js-vanilla-000
 
-# Pirámide de Pruebas
+
+## Temario
+* 
+
+### Pirámide de Pruebas
 
 ```
 Martin Fowler escribió la pirámide de pruebas.
@@ -20,7 +24,7 @@ para un escenario determinado.
     <img src="https://raw.githubusercontent.com/GeeksHubsAcademy/2020-geekshubs-media/master/image/piramide-testing.png" align="center" height="255" width="300">
 </p>
 
-# Qué se va a probar?
+### Qué se va a probar?
 
 ```
 Un problema común para los desarrolladores sin experiencia con la escritura de pruebas es determinar lo que 
@@ -39,7 +43,7 @@ Por último, hay que intentar centrarse en probar cosas en las que se pueda prod
 
 ```
 
-# Qué es un test unitario?
+### Qué es un test unitario?
 
 ```
 Es una forma de comprobar el correcto funcionamiento de una unidad de código.
@@ -58,7 +62,7 @@ Ahí lo dejo...
 
 ```
 
-# Cómo vamos escribir los test unitarios ?
+### Cómo vamos escribir los test unitarios ?
 
 ```
 Ahora mismo el alumno no debe de escribir ningún test, simplemente absorver conocimiento.
@@ -74,7 +78,7 @@ De esta manera, iremos poco a poco afinando y puliendo la técnica del testing.
 
 ```
 
-# Qué es un convenio ?
+### Qué es un convenio ?
 ```
 Es un acuerdo de voluntades. Dicese de ese tipo de normas que debes de tener a la hora de escribir código.
 
@@ -91,10 +95,10 @@ dando igual la procedencia.
 
 ```
 
-# Qué patrones vamos a usar ?
+### Qué patrones vamos a usar ?
 
 ```
-Inicidiendo en la estructura de cómo vamos a definir el contenido del método, vamos a usar un estándar.
+Incidiendo en la estructura de cómo vamos a definir el contenido de un método, vamos a usar un estándar.
 Tu por ahora no tendras que hacer nada, simplemente absorve información.
 
 Cuando testeemos, debemos de ser limpios y concisos.
@@ -108,11 +112,11 @@ Dicho patrón define el cuerpo de un test en tres partes.
                                     que vamos a utilizar en el Test que lo contiene.
                                     
                                     
-* Act (Actuar) => realiza la llamada al método a probar con los parámetros preparados para tal fin.
+* Act (Actuar)                   => realiza la llamada al método a probar con los parámetros preparados para tal fin.
 
 
-* Assert (Confirmar/Comprobar) => comprueba que el método de pruebas ejecutado se comporta tal y 
-                                  como teníamos previsto que lo hiciera.
+* Assert (Confirmar/Comprobar)  => comprueba que el método de pruebas ejecutado se comporta tal y 
+                                   como teníamos previsto que lo hiciera.
 ```
 
 #### Definición de un Test normal
@@ -136,6 +140,8 @@ expect(result).toBe(expected);
 });
 
 ```
+
+###
 
 
 
