@@ -136,7 +136,7 @@ Este concepto puede ser bueno a la hora de implementar pequeños métodos.
 #### Definición de un Test normal
 
 ```js
-test('Sum 1 + 2 to equal 3', function () => {
+test('Sum 1 + 2 to equal 3', function () {
   expect(sum(1, 2)).toBe(3);
 });
 
@@ -145,7 +145,7 @@ test('Sum 1 + 2 to equal 3', function () => {
 #### Definición de un Test con Patrón AAA
 
 ```js
-test('Sum 1 + 2 to equal 3', function () => {
+test('Sum 1 + 2 to equal 3', function () {
 // Arrange
 var expected = 3;
 
