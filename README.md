@@ -12,7 +12,7 @@
 * [Qué es un convenio ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-es-un-convenio-)
 * [Qué patrones vamos a usar ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-patrones-vamos-a-usar-)
 * [Conclusiones](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#conclusiones)
-
+* [Referencias](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#referencias)
 
 ### Pirámide de Pruebas
 
