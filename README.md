@@ -147,13 +147,13 @@ test('Sum 1 + 2 to equal 3', function () {
 ```js
 test('Sum 1 + 2 to equal 3', function () {
 // Arrange
-var expected = 3;
+var toBe = 3;
 
 // Act
 var result = sum(1, 2);
 
 // Assert
-expect(result).toBe(expected);
+expect(result).toBe(toBe);
 });
 
 ```
