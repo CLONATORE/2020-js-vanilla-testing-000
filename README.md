@@ -5,7 +5,7 @@
 * [Pirámide de Pruebas](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#pir%C3%A1mide-de-pruebas)
 * [Qué se va a probar ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-se-va-a-probar)
 * [Qué es un Test Unitario ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-es-un-test-unitario)
-* [Como vamos a escribir los Test Unitarios ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#c%C3%B3mo-vamos-escribir-los-test-unitarios-)
+* [Cómo vamos a escribir los Test Unitarios ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#c%C3%B3mo-vamos-escribir-los-test-unitarios-)
 * [Qué es un convenio ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-es-un-convenio-)
 * [Qué patrones vamos a usar ?](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#qu%C3%A9-patrones-vamos-a-usar-)
 * [Conclusiones](https://github.com/GeeksHubsAcademy/2020-js-vanilla-000/blob/master/README.md#conclusiones)
@@ -148,7 +148,10 @@ expect(result).toBe(expected);
 
 ```
 
-###
+### Conclusiones
+```
+
+```
 
 
 
@@ -156,3 +159,4 @@ expect(result).toBe(expected);
   * [Piramide de Pruebas - microsoft](https://docs.microsoft.com/es-es/dotnet/architecture/modern-web-apps-azure/test-asp-net-core-mvc-apps)
   * [Prueba unitaria - wikipedia](https://es.wikipedia.org/wiki/Prueba_unitaria)
   * [Unit-Testing](https://less.works/less/technical-excellence/unit-testing.html)
+  * [Patrón AAA](https://uniwebsidad.com/libros/tdd/capitulo-5/las-tres-partes-del-test-aaa)
