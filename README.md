@@ -78,23 +78,24 @@ Vamos a proveerte de soluciones ya estructuradas donde aprenderas a pensar.
 Para ello usaremos 'ingeniería inversa'.
 
 Al principio te daremos la solución hecha y simplemente tendrás que analizar y absorver el conocimiento.
-Luego te daremos partes del mismo, y sabiendo que previamente obtuvistes un conocimiento 'end-to-end',
-deberas de añadir la partes que falten.
+En una segunda iteración te daremos partes del mismo, y sabiendo que previamente obtuvistes un conocimiento 'end-to-end',
+deberás añadir la partes que falten.
 
-De esta manera, iremos poco a poco afinando y puliendo la técnica del testing. 
+De esta manera, iremos poco a poco afinando y puliendo la técnica del testing.
 
 ```
 
 ### Qué es un convenio ?
 ```
-Es un acuerdo de voluntades. Dicese de ese tipo de normas que debes de tener a la hora de escribir código.
+Es un acuerdo de voluntades. Dícese de ese tipo de normas que debes de tener a la hora de escribir código.
 
 Esto permite que varios desarrolladores de diferentes partes del mundo, puedan trabajar juntos sin tener 
 conflictos de sintaxis.
 
 Al tratar una norma de escritura, todos se entienden mejor.
 
-El uso de patrones o plantillas permite que nuestro código sea agnóstico al lenguaje que podamos hablar.
+El uso de patrones o plantillas permite que nuestro código sea agnóstico al lenguaje del habla de cada
+persona.
 
 Piensa que tu hablas español y tu compañero que colabora en un repositorio habla chino.
 Seguro que si ambos escribís en un mismo lenguaje de programación con unas normas mínimas, os entenderéis
@@ -106,7 +107,7 @@ dando igual la procedencia.
 
 ```
 Incidiendo en la estructura de cómo vamos a definir el contenido de un método, vamos a usar un estándar.
-Tu por ahora no tendras que hacer nada, simplemente absorve información.
+Tu por ahora no tendras que hacer nada, simplemente absorver información.
 
 Cuando testeemos, debemos de ser limpios y concisos.
 Hay que escribir lo mínimo viable e intentar ser lo máximo expresivo posible.
@@ -124,16 +125,21 @@ Dicho patrón define el cuerpo de un test en tres partes.
 
 * Assert (Confirmar/Comprobar)  => comprueba que el método de pruebas ejecutado se comporta tal y 
                                    como teníamos previsto que lo hiciera.
+                                   
+Este concepto puede ser bueno a la hora de implmentar pequeños métodos.
 ```
 
 #### Definición de un Test normal
+
 ```js
 test('Sum 1 + 2 to equal 3', function () => {
   expect(sum(1, 2)).toBe(3);
 });
 
 ```
+
 #### Definición de un Test con Patrón AAA
+
 ```
 test('Sum 1 + 2 to equal 3', function () => {
 // Arrange
@@ -150,13 +156,26 @@ expect(result).toBe(expected);
 
 ### Conclusiones
 ```
+Después de haber leído esta pequeña introducción simplemente queremos que asientes conceptos...
+
+La capacidad de llegar a un resultado acotando diferentes soluciones es la diferencia entre la persona
+que desarrolla y testea a la persona que testea y desarrolla.
+
+Son dos conceptos totalmente diferente que ahora mismo no podrás apreciar.
+
+Hay gente que tarda años en saber/ver estas diferencias... En Geekshubs queremos dejarlas claras desde el minuto uno de la formación.
+Por ello decimos que queremos que simplemente absorvas conocimiento, luego puliremos los detalles.
+
+Para finalizar, te diremos que estás aprendiendo hábitos de desarrollo, capacidades de análisis y premisas de metolodogía ágil.
+
+Tu aun no lo sabes, pero vas a empezar a pensar en construir tu meta poco a poco a base de pequeños Tests.  
 
 ```
 
 
-
 # Referencias
-  * [Piramide de Pruebas - microsoft](https://docs.microsoft.com/es-es/dotnet/architecture/modern-web-apps-azure/test-asp-net-core-mvc-apps)
+  * [Martin Fowler](https://www.google.com/search?q=martin+fowler&rlz=1C1GCEU_esES890ES890&oq=martin+fowler&aqs=chrome..69i57j46j35i39l2j0l4.5068j0j4&sourceid=chrome&ie=UTF-8)
+  * [Pirámide de Pruebas - microsoft](https://docs.microsoft.com/es-es/dotnet/architecture/modern-web-apps-azure/test-asp-net-core-mvc-apps)
   * [Prueba unitaria - wikipedia](https://es.wikipedia.org/wiki/Prueba_unitaria)
   * [Unit-Testing](https://less.works/less/technical-excellence/unit-testing.html)
   * [Patrón AAA](https://uniwebsidad.com/libros/tdd/capitulo-5/las-tres-partes-del-test-aaa)
