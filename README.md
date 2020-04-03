@@ -1,7 +1,7 @@
 # 2020-js-vanilla-testing-000
 
 <p align="center">
-    <img src="https://github.com/GeeksHubsAcademy/hello-world/blob/master/assets/media/logo/logo.png" >	
+    <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 
 ## Temario
@@ -187,3 +187,20 @@ Ahora ondea en las referencias.
   * [Prueba unitaria - wikipedia](https://es.wikipedia.org/wiki/Prueba_unitaria)
   * [Unit-Testing](https://less.works/less/technical-excellence/unit-testing.html)
   * [Patrón AAA](https://uniwebsidad.com/libros/tdd/capitulo-5/las-tres-partes-del-test-aaa)
+  
+  
+  
+  
+    <p align="center">
+        <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/pixel.png" >	
+    </p>
+  <footer>
+     <div>
+        <a href="https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-FF"><< Atrás</a>
+        <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/pixel.png" align="center"                  height="10" width="714">
+         <a href="https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-000">Siguiente >></a>   
+    </div>
+ </footer>
+
+
+
