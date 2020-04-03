@@ -202,7 +202,7 @@ Ahora ondea en las referencias.
          <a href="https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-000/blob/master/README.md#referencias">
         <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/pixel.png" align="center"                  height="10" width="714"/>
          </a>
-         <a href="https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-000">Siguiente >></a>   
+         <a href="https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-001">Siguiente >></a>   
     </div>
  </footer>
 
